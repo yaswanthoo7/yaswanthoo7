@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Yaswanth
-- 👀 I’m interested in machine learning, finance
+- 👀 I’m interested in machine learning and finance
 - 🌱 I’m currently learning CNN
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
 - linkedin - www.linkedin.com/in/yaswanth-kumar-368a45205
 - gmail - yaswanthkumarreddy007@gmail.com
 
